@@ -13,6 +13,6 @@
 - 🇺🇲  English version: [Documentation](Calculator_v.4_EN.md)
   
 ## 📷 Screenshots
-![](Calc_v.4.jpg)
+![](Calc_v.4.png)
 
 © NebulaStack
