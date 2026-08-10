@@ -1,6 +1,6 @@
 # Calculator v.4
 
-<img src="https://github.com/NebulaStack-prog/Calculator-v.4/raw/main/Calc.v4.png" width="200" height="230">
+<img src="https://github.com/NebulaStack-prog/Calculator-v.4/raw/main/Calc.v4.jpg" width="200" height="230">
 
 > Simple and convenient calculator, a continuation of the project line.
 
