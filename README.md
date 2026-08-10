@@ -5,7 +5,7 @@
 > Simple and convenient calculator, a continuation of the project line.
 
 ## 💻 Project Run
-- Open with browser: [Calculator.html](calculator.html)
+- Open with HTML: [Calculator.html](calculator.html)
 
 ## 📄 Full Documentation
 - 🇷🇺  Russian version: [Documentation](Calculator_v.4_RU.md)
