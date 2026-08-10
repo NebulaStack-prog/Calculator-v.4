@@ -15,4 +15,4 @@
 ## 📷 Screenshots
 ![](Calc_v.4.png)
 
-© NebulaStack
+© NESTIMS
