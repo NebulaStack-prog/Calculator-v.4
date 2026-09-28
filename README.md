@@ -8,9 +8,9 @@
 - Open with HTML: [Calculator.html](calculator.html)
 
 ## 📄 Full Documentation
-- 🇷🇺  Russian version: [Documentation](Calculator_v.4_RU.md)
+- 🇷🇺  Russian version: [Documentation](Calc_v.4_RU.md)
   
-- 🇺🇲  English version: [Documentation](Calculator_v.4_EN.md)
+- 🇺🇲  English version: [Documentation](Calc_v.4_EN.md)
   
 ## 📷 Screenshots
 ![](Calc_v.4.png)
